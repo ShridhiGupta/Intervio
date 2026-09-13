@@ -6,7 +6,7 @@
 
 ---
 
-## 🏛️ High-Level Architecture
+## High-Level Architecture
 
 ```
 ┌─────────────────┐    HTTP/HTTPS    ┌─────────────────┐    API Calls     ┌─────────────────┐
