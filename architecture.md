@@ -1,6 +1,6 @@
 # Interview AI - Architecture Documentation
 
-## 📋 Overview
+## Overview
 
 **Interview AI** is a full-stack web application built with a modern MERN (MongoDB, Express, React, Node.js) architecture. The platform leverages AI-powered capabilities to generate personalized interview preparation materials based on user resumes and job descriptions.
 
