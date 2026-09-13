@@ -33,7 +33,7 @@
 
 ---
 
-## 🔧 Technology Stack
+## Technology Stack
 
 ### Frontend Layer
 - **React 19.2.0** - UI framework with modern hooks and concurrent features
@@ -104,7 +104,7 @@ Frontend/src/
 
 ---
 
-## 🖥️ Backend Architecture
+## Backend Architecture
 
 ### Layered Architecture Pattern
 ```
@@ -231,7 +231,7 @@ axios.post(`${API_BASE_URL}/auth/login`, credentials)
 
 ---
 
-## 🔐 Security Architecture
+## Security Architecture
 
 ### Authentication & Authorization
 - **JWT Tokens**: Stored in HTTP-only cookies for XSS protection
@@ -254,7 +254,7 @@ app.use(cors({
 
 ---
 
-## 🗄️ Database Architecture
+## Database Architecture
 
 ### MongoDB Schema Design
 - **User Collection**: User authentication data
@@ -277,7 +277,7 @@ user: {
 
 ---
 
-## 🌐 External Service Integration
+## External Service Integration
 
 ### Google Generative AI Integration
 ```javascript
@@ -299,7 +299,7 @@ class GenAIService {
 
 ---
 
-## 🚀 Deployment Architecture
+## Deployment Architecture
 
 ### Development Environment
 ```
@@ -316,7 +316,7 @@ Database: MongoDB Atlas or local instance
 
 ---
 
-## 🔄 Request-Response Lifecycle
+## Request-Response Lifecycle
 
 ### Typical Request Flow
 1. **Frontend**: User interaction triggers API call
@@ -350,7 +350,7 @@ try {
 
 ---
 
-## 📊 Performance Optimizations
+## Performance Optimizations
 
 ### Frontend Optimizations
 - **Code Splitting**: Route-based lazy loading
