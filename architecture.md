@@ -53,7 +53,7 @@
 
 ---
 
-## 🏢 Frontend Architecture
+## Frontend Architecture
 
 ### Component Structure
 ```
@@ -160,7 +160,7 @@ Backend/src/
 
 ---
 
-## 🔄 Communication Flow
+## Communication Flow
 
 ### Authentication Flow
 ```mermaid
