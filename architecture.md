@@ -414,7 +414,3 @@ try {
 - **Frontend**: React DevTools, Browser DevTools
 - **Backend**: Node.js debugging, MongoDB logs
 - **API Testing**: Postman/Insomnia for endpoint testing
-
----
-
-*This architecture document provides a comprehensive overview of the Interview AI application's structure, communication patterns, and technical implementation details.*
